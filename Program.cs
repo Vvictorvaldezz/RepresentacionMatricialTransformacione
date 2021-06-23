@@ -1,4 +1,9 @@
-﻿using System;
+/*EQUIPO:
+VICTOR HUGO VALDEZ ROBLES
+MARIA DEL ROSARIO VALENTIN MONTIEL
+JUAN PABLO  GARCIA ALCANTARA
+YAZMIN  CRUZ INIESTA*/
+using System;
 namespace hola{
     class Program{
         static void operacion(){
